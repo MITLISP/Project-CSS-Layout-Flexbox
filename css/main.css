@@ -27,6 +27,11 @@ main {
   flex-direction: row;
 }
 
+.nav-row {
+  display: flex;
+  flex-direction: row;
+}
+
 nav {
   margin: 2.6%;
 }
