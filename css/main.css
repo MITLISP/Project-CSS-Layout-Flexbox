@@ -1,0 +1,40 @@
+html {
+  max-width:80%;
+  padding:0;
+}
+
+img {
+  max-width: 100%;
+}
+
+.date {
+  font-size: large;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  font-size: 10;
+}
+
+.DateNavFlex {
+  display: flex;
+  flex-direction: row;
+}
+
+.meta {
+  display: flex;
+  flex-direction: row;
+}
+
+nav {
+  margin: 2.6%;
+}
+
+
+header {
+  margin: 20%;
+  background-color:
+}
+
+.
